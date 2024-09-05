@@ -1,0 +1,93 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    text-decoration: none;
+}
+
+/* Estilo del encabezado y navegación */
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #bb8b8b;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Estilos principales */
+main {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 40px;
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Estilo para los proyectos */
+.proyecto {
+    background-color: #f4f4f4;
+    border-left: 5px solid #333;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+h3 {
+    color: #444;
+}
+
+/* Estilo de las habilidades */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e4e4e4;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Estilo del pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
